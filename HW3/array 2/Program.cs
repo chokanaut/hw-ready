@@ -15,7 +15,7 @@ namespace array_2
 
             for (int i = arr.Length - 1; i >= 0; i--)
             {
-                result[arr.Length - i - 1] = arr[i];
+                result[arr.Length - i - 1] = arr[i]; // fill arr in reverse oredr
             }
 
             return result;
@@ -26,7 +26,7 @@ namespace array_2
         {
             int [] sub = new int[count];
 
-            for (int i = index; i < index + count; i++)
+            for (int i = index; i < index + count; i++)   // start from index and assign caunt
             {
                 if (i < arr.Length)
                 {
