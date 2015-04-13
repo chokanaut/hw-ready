@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "ConsoleApplication1\Factorial.csproj", "{A1CF65F1-9CBB-40EC-B675-ED589FBBE6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert", "convert\convert.csproj", "{81350EA2-DCC6-4654-93CD-5F5E525EB65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic", "logic\logic.csproj", "{FE917A8F-650F-47B2-936D-95C1D24FAB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert age", "convert age\convert age.csproj", "{3FFBDA97-37F9-4341-B489-D8380D23F2B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parity1", "parity\parity1.csproj", "{40283EE6-295F-4A19-9FD2-A2C3EBD10766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "between numbers", "between numbers\between numbers.csproj", "{22556581-E775-4D11-AC0C-3539F6122AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CF65F1-9CBB-40EC-B675-ED589FBBE6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CF65F1-9CBB-40EC-B675-ED589FBBE6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CF65F1-9CBB-40EC-B675-ED589FBBE6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CF65F1-9CBB-40EC-B675-ED589FBBE6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81350EA2-DCC6-4654-93CD-5F5E525EB65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81350EA2-DCC6-4654-93CD-5F5E525EB65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81350EA2-DCC6-4654-93CD-5F5E525EB65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81350EA2-DCC6-4654-93CD-5F5E525EB65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE917A8F-650F-47B2-936D-95C1D24FAB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE917A8F-650F-47B2-936D-95C1D24FAB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE917A8F-650F-47B2-936D-95C1D24FAB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE917A8F-650F-47B2-936D-95C1D24FAB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFBDA97-37F9-4341-B489-D8380D23F2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFBDA97-37F9-4341-B489-D8380D23F2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFBDA97-37F9-4341-B489-D8380D23F2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFBDA97-37F9-4341-B489-D8380D23F2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40283EE6-295F-4A19-9FD2-A2C3EBD10766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40283EE6-295F-4A19-9FD2-A2C3EBD10766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40283EE6-295F-4A19-9FD2-A2C3EBD10766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40283EE6-295F-4A19-9FD2-A2C3EBD10766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22556581-E775-4D11-AC0C-3539F6122AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22556581-E775-4D11-AC0C-3539F6122AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22556581-E775-4D11-AC0C-3539F6122AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22556581-E775-4D11-AC0C-3539F6122AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
